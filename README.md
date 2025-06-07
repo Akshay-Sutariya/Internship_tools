@@ -83,9 +83,10 @@ recon-output-example.com/
 ├── whatweb.txt
 ```
 
-🔐 Disclaimer
+
+##🔐 Disclaimer
 This tool is for educational and authorized testing purposes only.
-
+```bash
 ⚠️ Do not use this script on domains you do not own or do not have permission to test. Use responsibly.
-
+```
 
