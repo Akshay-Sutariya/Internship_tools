@@ -84,8 +84,8 @@ recon-output-example.com/
 ```
 
 
-##🔐 Disclaimer
-This tool is for educational and authorized testing purposes only.
+## 🔐 Disclaimer
+ ### This tool is for educational and authorized testing purposes only.
 ```bash
 ⚠️ Do not use this script on domains you do not own or do not have permission to test. Use responsibly.
 ```
