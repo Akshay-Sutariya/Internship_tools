@@ -72,14 +72,15 @@ python3 recon_tool.py
 ### 4. Output Structure
 
 recon-output-example.com/
-├── whois.txt
-├── dns_any.txt
-├── dns_mx.txt
-├── dns_txt.txt
-├── subdomains_amass.txt
-├── subdomains_assetfinder.txt
-├── theHarvester.txt
-├── whatweb.txt
+----------------------------
+├ ── whois.txt
+├ ── dns_any.txt
+├ ── dns_mx.txt
+├ ── dns_txt.txt
+├ ── subdomains_amass.txt
+├ ── subdomains_assetfinder.txt
+├ ── theHarvester.txt
+├ ── whatweb.txt
 
 
 🔐 Disclaimer
